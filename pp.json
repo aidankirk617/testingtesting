@@ -1,0 +1,6 @@
+{
+	"sources": [
+		{ "id": "2", "group": 1, "dest": "5"},
+		{ "id": "1", "group": 2, "dest": "6"},
+		{ "id": "4", "group": 1, "dest": "7"}]
+}
